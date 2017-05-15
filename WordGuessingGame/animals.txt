@@ -1,0 +1,10 @@
+cat
+dog
+mouse
+elephant
+peacock
+tiger
+lion
+crocodile
+human
+hippopotamus

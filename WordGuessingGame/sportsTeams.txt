@@ -1,0 +1,10 @@
+mavericks
+cowboys
+patriots
+yankees
+lakers
+bulls
+ravens
+steelers
+eagles
+penguins
